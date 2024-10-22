@@ -1,5 +1,5 @@
 import numpy as np
-from L16.Task1 import fisher
+from L11.Task1 import fisher
 from utils import generate_dataset, split_dataset, get_acc, visual
 
 m1 = np.array([-5, 0])
