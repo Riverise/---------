@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from typing import Any
-from L16.Task1 import normal_equation, gradient_descent
+from L10.Task1 import normal_equation, gradient_descent
 from utils import generate_dataset, split_dataset, get_acc
 
 m1 = np.array([-5, 0])
